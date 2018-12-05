@@ -2,7 +2,7 @@ package mem
 
 import (
 	"fmt"
-	"git.amabanana.com/plancks-cloud/pc-go-daemon/util"
+	"util"
 	"github.com/hashicorp/go-memdb"
 	log "github.com/sirupsen/logrus"
 )
