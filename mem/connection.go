@@ -2,9 +2,9 @@ package mem
 
 import (
 	"fmt"
-	"util"
 	"github.com/hashicorp/go-memdb"
 	log "github.com/sirupsen/logrus"
+	"github.com/wiggle-penguin/wp-mmo-be-core/util"
 )
 
 var (

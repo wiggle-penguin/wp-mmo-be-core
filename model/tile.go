@@ -2,6 +2,6 @@ package model
 
 type Tile struct {
 	Locatable
-	skin string
+	skin       string
 	Properties map[string]string
 }
